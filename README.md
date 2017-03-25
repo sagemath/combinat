@@ -1,4 +1,3 @@
-<<<<<<< ours
 # combinat.sagemath.org
 ## History of Sage-Combinat
 Sage-Combinat started back in 2008, as a reincarnation of a similar
@@ -18,6 +17,3 @@ website in a citation.
 Most pages should redirect to a suitable http://wiki.sagemath.org/combinat
 page. Check the /misc and /publications folders for publications that we are
 keeping for the above reasons.
-=======
-# combinat
->>>>>>> theirs
